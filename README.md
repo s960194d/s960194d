@@ -16,7 +16,7 @@
 
 ## 好ㄌ我也不知道我要說啥ㄌ
 
-就醬 =w= 🙃
+就醬 =w=
 
 <!--
 **s960194d/s960194d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
