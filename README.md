@@ -4,7 +4,7 @@
 
 ## 我是誰
 
-s960194d 
+@s960194d 
 梧茗噬
 
 ### 我不會寫扣喇 (´･ω･`)
@@ -22,6 +22,36 @@ s960194d
 ## 好ㄌ我也不知道我要說啥ㄌ
 
 就醬 =w=
+
+
+
+# 🔰 Good Morning! Meow.
+
+⬆️ This means that I am a beginner
+
+## Who am I
+
+@s960194d 
+
+### I can't write good code... (´･ω･`)
+
+## Things you don't really need to know
+
+### 🧑‍💻 What am I doing recently?
+
+Just wasting my life.
+
+### 🌱 What have I been learning lately?
+
+I don't really know.
+
+## That's probably too much useless talk
+
+##### (Also, I don't know what else should I write here so...)
+
+That's it =w=
+
+
 
 <!--
 **s960194d/s960194d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
